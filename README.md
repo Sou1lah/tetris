@@ -1,4 +1,4 @@
 # tetris
 ![screenshot](screenshot.png)
 
-Play the game live: [https://wael.github.io/tetris/](https://wael.github.io/tetris/)
+Play the game live: [https://Sou1lah.github.io/tetris/](https://Sou1lah.github.io/tetris/)
